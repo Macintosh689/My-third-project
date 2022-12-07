@@ -1,0 +1,13 @@
+.menu-link {
+  margin-right: 18px;
+  padding: 0;
+  color: white;
+  text-decoration: none;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 18px;
+}
+
+.menu-link:last-of-type {
+  margin-right: 0;
+}
