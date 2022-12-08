@@ -7,3 +7,10 @@
   align-items: flex-end;
   padding-top: 28px;
 }
+
+@media screen and (max-width: 1279px){
+  .header {
+    max-width: 928px;
+    margin-bottom: 48px;
+  }
+}
