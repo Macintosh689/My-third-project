@@ -34,20 +34,3 @@
   transition: 1s ease-in-out;
 }
 
-@media screen and (max-width: 1279px) {
-  .cover__link {
-
-  }
-}
-
-@media screen and (max-width: 1023px) {
-  .cover__link {
-
-  }
-}
-
-@media screen and (max-width: 767px) {
-  .cover__link {
-
-  }
-}
