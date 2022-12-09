@@ -11,3 +11,12 @@
 .menu-link:last-of-type {
   margin-right: 0;
 }
+
+@media screen and (max-width: 767px) {
+  .menu-link {
+    margin: 0 0 32px 0;
+  }
+  .menu-link:last-of-type {
+    margin: 0 0 48px 0;
+  }
+}
